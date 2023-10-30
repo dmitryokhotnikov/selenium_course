@@ -25,3 +25,4 @@ class ProductPage(BasePage):
         return basket_messages[2].text
 
 
+
